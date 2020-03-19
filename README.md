@@ -1,8 +1,4 @@
-# Design Tokens + Style Dictionary
-> *Style once, use everywhere.*
-
-asdasd
-
+# Design Tokens + Style Dictionary + NextJS
 
 ## Contents
 * [Installation](#installation)
@@ -34,9 +30,9 @@ web
       └── tokens.styl
 
 ```
-### WATCH
+### DEV
 ```bash
-$ yarn watch
+$ yarn dev
 ```
 
 ```

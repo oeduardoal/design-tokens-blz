@@ -1,0 +1,19 @@
+{
+  "name": "design-tokens-blz",
+  "version": "0.1.0",
+  "description": "Implementation of Design Tokens using Style Dictionary",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./build.js",
+    "dev": "nodemon --exec 'rimraf dist && node ./build.js' -w src -w build.js"
+  },
+  "author": "Beleza na Web",
+  "license": "MIT",
+  "devDependencies": {
+    "handlebars": "^4.0.11",
+    "nodemon": "^2.0.2",
+    "rimraf": "^3.0.2",
+    "style-dictionary": "^2.2.1"
+  }
+}
