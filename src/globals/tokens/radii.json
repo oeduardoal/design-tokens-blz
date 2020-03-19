@@ -1,0 +1,16 @@
+{
+  "radii": {
+    "full": {
+      "value": "50%"
+    },
+    "sm": {
+      "value": "2px"
+    },
+    "md": {
+      "value": "4px"
+    },
+    "lg": {
+      "value": "8px"
+    }
+  }
+}

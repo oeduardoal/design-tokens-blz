@@ -1,0 +1,13 @@
+{
+  "font": {
+    "heading": {
+      "value": "Helvetica, Arial, sans-serif"
+    },
+    "body": {
+      "value": "Helvetica, Arial, sans-serif"
+    },
+    "mono": {
+      "value": "\"Courier New\", monospace"
+    }
+  }
+}

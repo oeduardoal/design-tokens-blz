@@ -1,0 +1,10 @@
+{
+  "color": {
+    "primary": {
+      "value": "{color.orange.500.value}"
+    },
+    "secondary": {
+      "value": "{color.purple.500.value}"
+    }
+  }
+}
